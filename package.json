@@ -1,0 +1,30 @@
+{
+  "name": "harness-admin-gui",
+  "version": "0.0.1",
+  "description": "Harness Administrator GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actionml/harness-admin-gui.git"
+  },
+  "keywords": [
+    "harness",
+    "gui",
+    "machine-learning",
+    "recommender"
+  ],
+  "author": "Pat Ferrel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/actionml/harness-admin-gui/issues"
+  },
+  "homepage": "https://github.com/actionml/harness-admin-gui#readme",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.16"
+  }
+}

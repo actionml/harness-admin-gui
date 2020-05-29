@@ -1,0 +1,7 @@
+{
+  "name": "Harness Administrator GUI",
+  "version": "0.0.1",
+  "mongoURI": "mongodb://localhost:27017",
+  "harnessEngines": "harness_meta_store",
+  "adminSecret": "DANGER: this should be found in the env"
+}
